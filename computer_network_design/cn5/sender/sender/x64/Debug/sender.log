@@ -1,3 +1,0 @@
-﻿  sender_meet.cpp
-D:\computer_network_design\cn5\sender\sender\sender_meet.cpp(53,43): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
-  sender.vcxproj -> D:\computer_network_design\cn5\sender\x64\Debug\sender.exe

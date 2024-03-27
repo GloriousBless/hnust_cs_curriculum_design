@@ -1,3 +1,0 @@
-﻿  online_server.cpp
-D:\computer_network_design\server\server\online_server.cpp(54,36): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
-  server.vcxproj -> D:\computer_network_design\server\x64\Debug\server.exe

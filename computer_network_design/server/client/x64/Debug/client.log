@@ -1,4 +1,0 @@
-﻿  online_client.cpp
-D:\computer_network_design\server\client\online_client.cpp(26,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-D:\computer_network_design\server\client\online_client.cpp(44,41): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
-  client.vcxproj -> D:\computer_network_design\server\x64\Debug\client.exe

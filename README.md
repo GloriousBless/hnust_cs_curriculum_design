@@ -1,1 +1,0 @@
-# hnust_cs_curriculum_design
