@@ -1,0 +1,5 @@
+﻿  ping.cpp
+D:\computer_network_design\cn2_next\cn2_next\ping.cpp(226,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\computer_network_design\cn2_next\cn2_next\ping.cpp(230,21): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\computer_network_design\cn2_next\cn2_next\ping.cpp(234,21): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  cn2_next.vcxproj -> D:\computer_network_design\cn2_next\x64\Debug\cn2_next.exe
