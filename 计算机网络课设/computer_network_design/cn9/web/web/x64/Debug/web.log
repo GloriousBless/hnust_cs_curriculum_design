@@ -1,0 +1,5 @@
+﻿  web_inter.cpp
+D:\computer_network_design\cn9\web\web\web_inter.cpp(84,46): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\computer_network_design\cn9\web\web\web_inter.cpp(97,54): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\computer_network_design\cn9\web\web\web_inter.cpp(104,50): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  web.vcxproj -> D:\computer_network_design\cn9\web\x64\Debug\web.exe
